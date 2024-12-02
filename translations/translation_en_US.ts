@@ -8,6 +8,12 @@
             <comment>Text</comment>
             <translation type="obsolete">Hello</translation>
         </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Goodbye</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Goodbye</translation>
+        </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/Say</name>
@@ -22,10 +28,9 @@
             <translation type="obsolete">Welcome to a streching routine!</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Goodbye</source>
             <comment>Text</comment>
-            <translation type="unfinished">Goodbye</translation>
+            <translation type="obsolete">Goodbye</translation>
         </message>
         <message>
             <source>Why are we still here? Just to suffer? Every night, I can feel my leg and my arm... even my fingers... the body I've lost... the comrades I've lost... won't stop hurting. It's like they're all still there.</source>
@@ -50,6 +55,24 @@
             <source>Hello</source>
             <comment>Text</comment>
             <translation>Hello</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/arms/Say (2)</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Get those arms moving!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Get those arms moving!</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/neck/Say (1)</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Let's rotate the neck</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Let's rotate the neck</translation>
         </message>
     </context>
 </TS>
