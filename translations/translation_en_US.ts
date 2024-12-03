@@ -9,10 +9,15 @@
             <translation type="obsolete">Hello</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Goodbye</source>
             <comment>Text</comment>
-            <translation type="unfinished">Goodbye</translation>
+            <translation type="obsolete">Goodbye</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Thank you for following along</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Thank you for following along</translation>
         </message>
     </context>
     <context>
@@ -51,10 +56,15 @@
             <translation type="obsolete">Welcome to a streching routine!</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Hello</source>
             <comment>Text</comment>
-            <translation>Hello</translation>
+            <translation type="vanished">Hello</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Let's do some easy exercises</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Let's do some easy exercises</translation>
         </message>
     </context>
     <context>
@@ -69,10 +79,15 @@
     <context>
         <name>behavior_1/behavior.xar:/neck/Say (1)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Let's rotate the neck</source>
             <comment>Text</comment>
-            <translation type="unfinished">Let's rotate the neck</translation>
+            <translation type="obsolete">Let's rotate the neck</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Rotate the neck slowly</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Rotate the neck slowly</translation>
         </message>
     </context>
 </TS>
