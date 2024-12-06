@@ -2,6 +2,25 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="en_US">
     <context>
+        <name>behavior_1/behavior.xar:/Front and back/Say</name>
+        <message>
+            <source>Slowly lean back and the reach for your toes.</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Slowly lean back and the reach for your toes.</translation>
+        </message>
+        <message>
+            <source>Slowly lean back and then reach for your toes.</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Slowly lean back and then reach for your toes.</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Slowly lean back and then reach for your toes</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Slowly lean back and then reach for your toes</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Goodbye/Say</name>
         <message>
             <source>Hello</source>
